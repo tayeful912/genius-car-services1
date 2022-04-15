@@ -1,3 +1,4 @@
+import { type } from '@testing-library/user-event/dist/type';
 import React, { useState } from 'react';
 import { Carousel } from 'react-bootstrap';
 
@@ -61,3 +62,4 @@ const Banner = () => {
 };
 
 export default Banner;
+
